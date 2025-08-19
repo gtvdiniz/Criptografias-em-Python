@@ -38,6 +38,6 @@ O resultado da criptografia será salvo no arquivo `criptografando.txt`, substit
 
 ### ✍️ Autor
 
-**Gugzz21** - https://github.com/Gugzz21
+**Gugzz21** - [Link para o perfil do GitHub](https://github.com/Gugzz21)
 
 
